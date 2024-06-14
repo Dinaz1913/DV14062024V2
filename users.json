@@ -1,0 +1,43 @@
+[
+    {
+        "name": "John Doe",
+        "wallet": 10000,
+        "portfolio": []
+    },
+    {
+        "name": "Jane Smith",
+        "wallet": 4975.850084024869,
+        "portfolio": {
+            "9tqreb1wef": [
+                {
+                    "date": "2024-06-14 10:52:35",
+                    "symbol": "9tqreb1wef",
+                    "amount": 20,
+                    "price": 0.6328171969631708,
+                    "total": 12.656343939263417,
+                    "last_updated": "2024-06-14T10:52:04.122Z"
+                }
+            ],
+            "qlo5v9q2ug": [
+                {
+                    "date": "2024-06-14 11:29:27",
+                    "symbol": "qlo5v9q2ug",
+                    "amount": 25,
+                    "price": 0.27099050306176276,
+                    "total": 6.774762576544068,
+                    "last_updated": "2024-06-14T11:29:04.192Z"
+                }
+            ],
+            "z340x70pp1": [
+                {
+                    "date": "2024-06-14 11:30:42",
+                    "symbol": "z340x70pp1",
+                    "amount": 36,
+                    "price": 0.1310780405367813,
+                    "total": 4.7188094593241265,
+                    "last_updated": "2024-06-14T11:30:17.853Z"
+                }
+            ]
+        }
+    }
+]

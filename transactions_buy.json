@@ -1,0 +1,22 @@
+[
+    {
+        "username": "Jane Smith",
+        "date": "2024-06-14 11:29:27",
+        "type": "buy",
+        "symbol": "qlo5v9q2ug",
+        "amount": 25,
+        "price": 0.27099050306176276,
+        "total": 6.774762576544068,
+        "code": "666c2997a7bef"
+    },
+    {
+        "username": "Jane Smith",
+        "date": "2024-06-14 11:30:42",
+        "type": "buy",
+        "symbol": "z340x70pp1",
+        "amount": 36,
+        "price": 0.1310780405367813,
+        "total": 4.7188094593241265,
+        "code": "666c29e29cc3a"
+    }
+]
